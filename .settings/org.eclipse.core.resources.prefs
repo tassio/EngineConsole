@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/engineConsole/base/engine.py=utf-8
+encoding//src/engineConsole/telas.py=utf-8
+encoding//src/engineConsole/views.py=utf-8
+encoding//src/remoto/baseApplicationRemoto.py=utf-8
+encoding//src/remoto/eventoTecladoRemoto.py=utf-8
